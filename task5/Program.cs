@@ -17,6 +17,7 @@ namespace task5
             Console.WriteLine("Приветствую тебя - " + FullName);
 
             Console.ReadLine();
+
         }
     }
 }
